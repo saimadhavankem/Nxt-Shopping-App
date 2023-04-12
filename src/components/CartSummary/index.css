@@ -1,0 +1,21 @@
+.cart-summary-container {
+  display: flex;
+  flex-direction: column;
+}
+.checked-btn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border: none;
+  padding: 10px;
+  border-radius: 2px;
+  margin-top: 10px;
+}
+.price {
+  color: #616e7c;
+  font-size: 17px;
+  font-weight: bold;
+}
+.para {
+  font-size: 12px;
+  color: #616e7c;
+}
